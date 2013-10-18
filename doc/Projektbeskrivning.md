@@ -1,11 +1,11 @@
 
 # Projektnamn här
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[tn2222eb](https://github.com/tn222eb), [ss222yw](https://github.com/ss222yw), [sr222hn](https://github.com/sr222hn)
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Exekverbar version av projektet](https://github.com/tn222eb/ProjektskelettHT13)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
